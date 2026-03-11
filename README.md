@@ -36,7 +36,7 @@ I'm a passionate **Business Insights & Analytics** student at Humber Polytechnic
 ## 🌟 Current Focus
 - 🔭 Building analytics projects using Python and Power BI
 - 🌱 Deepening expertise in Machine Learning and Predictive Analytics
-- 👯 Open to internship and co-op opportunities in data analytics
+- 👯 Open to internship and co-op opportunities in analytics
 - 📍 Based in Toronto, Canada
 
 ---
@@ -50,7 +50,7 @@ I'm a passionate **Business Insights & Analytics** student at Humber Polytechnic
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](your-linkedin-url-here)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshita-gupta-16314534b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 💬 Always open to opportunities in data analytics and business intelligence!
 
 ---
