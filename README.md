@@ -24,6 +24,7 @@ I'm a passionate **Business Insights & Analytics** student at Humber Polytechnic
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ---
 
@@ -35,7 +36,7 @@ I'm a passionate **Business Insights & Analytics** student at Humber Polytechnic
 
 ## 🌟 Current Focus
 - 🔭 Building analytics projects using Python and Power BI
-- 🌱 Deepening expertise in Machine Learning and Predictive Analytics
+- 🌱 Learning Business Analytics using Predictive Analytics, R Studio, Databricks and many more
 - 👯 Open to internship and co-op opportunities in analytics
 - 📍 Based in Toronto, Canada
 
@@ -51,7 +52,7 @@ I'm a passionate **Business Insights & Analytics** student at Humber Polytechnic
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshita-gupta-16314534b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 💬 Always open to opportunities in data analytics and business intelligence!
+- 💬 Always open to opportunities in Business analytics, Project Manager, Financial Analytics, Marketing Analytics and business intelligence!
 
 ---
 *"Without data, you're just another person with an opinion." – W. Edwards Deming*
