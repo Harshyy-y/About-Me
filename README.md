@@ -46,7 +46,9 @@ I'm a passionate **Business Insights & Analytics** student at Humber Polytechnic
 
 | Project | Tools | Description |
 |---|---|---|
-| [Vendor Performance Analysis](https://github.com/Harshyy-y/Vendor-Performance-Analysis) | Python · SQL · Power BI | End-to-end analytics: ingestion, EDA, interactive dashboard |
+| [Vendor Performance Analysis](https://github.com/HarshitaZGupta/Vendor-Performance-Analysis) | Python · SQL · Power BI | End-to-end analytics: ingestion, EDA, interactive dashboard |
+| [Predictive Analytics Excel](https://github.com/HarshitaZGupta/Predictive-Analytics-Excel) | Excel · Forecasting · Solver | Excel-based predictive analytics and forecasting models |
+
 
 ---
 
